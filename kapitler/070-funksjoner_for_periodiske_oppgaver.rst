@@ -1147,11 +1147,11 @@ Innholdet og betydningen av hvert virksomhetsspesifikt metadataelement skal doku
 Arkivdokumentene
 ~~~~~~~~~~~~~~~~
 
-Arkivdokumentene skal avleveres/deponeres i arkivformater som er godtatt av Riksarkivaren. Det betyr at alle dokumenter må være konvertert til et arkivformat før arkivuttrekket produseres. I Noark 5-løsningen kan de samme dokumentene også eksistere i produksjonsformat, men disse skal ikke være med i uttrekket.
+Arkivdokumentene skal avleveres/deponeres i arkivformater som er godtatt av Riksarkivaren. Det betyr at alle dokumenter må være konvertert til et arkivformat før arkivuttrekket produseres. I tillegg kan det avtales at det opprinnelige dokumentet, slik det ble lagret i Noark 5-løsningen, kan være med i uttrekket, for å gjøre det mulig i fremtiden å gjenskape konverteringen og bekrefte at konverteringen er korrekt.
 
 Hvert enkelt dokument skal eksporteres som én dokumentfil. I denne versjonen av Noark 5 er det ikke tillatt å avlevere dokumenter som består av flere filer (f.eks. som en tekstfil i XML-format med tilknyttet grafikk/bilder som egne separate filer).
 
-Dersom ett dokument er arkivert i flere versjoner - og dersom de foregående versjonene ikke har blitt slettet før eksporten - skal alle versjonene være med i uttrekket, forutsatt at de er lagret i godkjent arkivformat. I slike tilfeller vil hver arkiverte versjon av dokumentet utgjøre en egen dokumentfil. Det samme er tilfellet med varianter som blir arkivert sammen med originaldokumentet, f.eks. offentlige varianter hvor informasjon som er unntatt offentligheten er "sladdet".
+Dersom ett dokument er arkivert i flere versjoner - og dersom de foregående versjonene ikke har blitt slettet før eksporten - skal alle versjonene i godkjent arkivformat være med i uttrekket, mens det er valgfritt å ta med andre formater. I slike tilfeller vil hver arkiverte versjon av dokumentet utgjøre en egen dokumentfil. Det samme er tilfellet med varianter som blir arkivert sammen med originaldokumentet, f.eks. offentlige varianter hvor informasjon som er unntatt offentligheten er "sladdet".
 
 Dokumenter i et sakarkiv som er arkivert uten journalføring, skal være med i avleveringen/deponeringen dersom de ikke har blitt kassert før uttrekket blir produsert. I arkivstrukturen vil disse dokumentene være knyttet til registreringer av type *registrering*.
 

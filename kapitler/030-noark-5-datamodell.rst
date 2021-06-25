@@ -755,7 +755,7 @@ Dersom det opprinnelige dokumentet har innhold som skal skjermes, kan det lages 
    - O
    - 
 
-Alle dokumenter som skal avleveres, må være konvertert til format godkjent av Riksarkivaren. [6]_ Det opprinnelige produksjonsformatet kan da rutinemessig slettes. En del brukere vil nok velge å beholde produksjonsformatet inntil videre, f.eks. fordi de har behov for å gjenbruke tekst i et kontorstøtteverktøy. Hvor lenge dette er aktuelt, er opp til hver enkelt bruker. Det er ikke noe krav at produksjonsformatene må være slettet før arkivuttrekket produseres, fordi dette bare vil ta med dokumenter i arkivformat. Men mange brukere vil likevel ha et behov for å gå gjennom og slette eldre produksjonsformater på en effektiv måte.
+Alle dokumenter som skal avleveres, må være konvertert til et format godkjent av Riksarkivaren. [6]_ Det opprinnelige produksjonsformatet kan slettes, men kan etter nærmere avtale avleveres sammen med godkjent arkivformat.
 
 .. list-table:: **Krav til sletting av dokumentformater**
    :widths: 1 8 1 4
