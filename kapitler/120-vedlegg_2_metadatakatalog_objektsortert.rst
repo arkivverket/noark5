@@ -1127,6 +1127,12 @@ Spesialisering av: *registrering*
    - 0-1
    - A
    - Tekststreng
+ * - M413
+   - eksternReferanse
+   - (AM.REF)
+   - 0-1
+   - A
+   - Tekststreng
 
 Metadata for *avskrivning*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
