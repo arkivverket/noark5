@@ -319,6 +319,18 @@ Merk: En og bare en av objekttypene *arkiv* eller *arkivdel* grupperes inn i *ar
    - 0-1
    - A
    - arkivdel.systemID
+ * - M016
+   - eksterntSystemNavn
+   - 
+   - 0-1
+   - A
+   - Tekststreng
+ * - M017
+   - eksterntSystemNoekkel
+   - 
+   - 0-1
+   - A
+   - Tekststreng
  * - M711
    - virksomhetsspesifikkeMetadata
    - 
@@ -623,6 +635,18 @@ Merk: Bare en av objekttypene *klassifikasjonssystem*, *mappe* eller *registreri
    - 0-M
    - A
    - klasse.systemID
+ * - M016
+   - eksterntSystemNavn
+   - 
+   - 0-1
+   - A
+   - Tekststreng
+ * - M017
+   - eksterntSystemNoekkel
+   - 
+   - 0-1
+   - A
+   - Tekststreng
  * - M711
    - virksomhetsspesifikkeMetadata
    - 
@@ -907,6 +931,18 @@ Merk: Bare en av objekttypene *klassifikasjonssystem*, *mappe* eller *registreri
    - 0-M
    - A
    - klasse.systemID
+ * - M016
+   - eksterntSystemNavn
+   - 
+   - 0-1
+   - A
+   - Tekststreng
+ * - M017
+   - eksterntSystemNoekkel
+   - 
+   - 0-1
+   - A
+   - Tekststreng
  * - M711
    - virksomhetsspesifikkeMetadata
    - 
