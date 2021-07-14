@@ -1,0 +1,11 @@
+Arkivenhet: arkivdel, mappe, registrering, dokumentbeskrivelse
+Arv: Nei
+Betingelser: Nøkkelen er entydig innen fagsystemet, og må kombineres med eksterntSystemNavn for å gi en entydig nøkkel der hvor flere fagsystemer arkiverer i Noark 5-løsningen.
+Datatype: Tekststreng
+Definisjon: Entydig nøkkel til et objekt i et eksternt fagsystem som svarer til objektet i Noark 5.
+Gruppe: Identifikasjon
+Kilde: 
+Kommentarer: Benyttes der hvor objekter som finnes i Noark-løsningen behandles i et fagsystem.
+Navn: eksterntSystemNoekkel
+Nr: M017
+Utdatert: nei
