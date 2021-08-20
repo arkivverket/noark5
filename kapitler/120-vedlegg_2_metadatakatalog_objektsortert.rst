@@ -3106,7 +3106,59 @@ Metadata for *korrespondansepart*
 Metadata som ikke inngår i arkivstrukturen
 ------------------------------------------
 
-Disse metadataene inngår ikke i arkivstrukturen, og skal ikke avleveres. Metadataene er tatt med fordi det kan være aktuelt å migrere disse mellom forskjellige systemer eller tjenester, og de kan derfor inngå i forskjellige tjenestegrensesnitt mot Noark 5 kjerne (f.eks. fremtidige Noark 5 webservices).
+Disse metadataene inngår ikke i arkivstrukturen, og trenger ikke avleveres. Metadataene er tatt med fordi det kan være aktuelt å migrere disse mellom forskjellige systemer eller tjenester, og de kan derfor inngå i forskjellige tjenestegrensesnitt mot Noark 5 kjerne (f.eks. fremtidige Noark 5 webservices).
+
+Metadata for *metadata*
+~~~~~~~~~~~~~~~~~~~~~~~
+
+Kan avleveres som en egen fil kalt **metadata.xml**.
+
+Katalog over brukte verdier i metadataelementer i objekter, også kalt
+kodelister.  Verdier fra listene henvises til både ved sin **kode** og
+ved sitt **kodenavn**, slik at alle verdier i en bestemt kodeliste
+skal være unike.
+
+Alle kodelister har en bolsk attributt «inaktiv» som settes til «true»
+for historiske verdier som ikke lenger skal kunne settes på nye
+arkivenheter og «false» hvis verdien kan brukes på nye arkivenheter
+
+Kodelister brukes i arkivenhetene *arkivstatus*, *arkivdelstatus*,
+*klassifikasjonssystem*, *saksstatus*, *journalstatus*,
+*dokumentstatus*, *mappetype*, *journalposttype*,
+*korrespondanseparttype*, *tilgangsrestriksjon*, *partrolle*,
+*variantformat*, *format*, *avskrivningsmåte* m.fl.
+
+Hvert kodeliste har type som beskriver hva slags verdier som er i
+listen, og kodeverdi-elementer med følgende elementer:
+
+.. list-table::
+   :widths: 2 11 6 2 1 7
+   :header-rows: 1
+
+   * - **Nr.**
+     - **Navn**
+     - **Noark 4**
+     - **Forek.**
+     - **Avl.**
+     - **Datatype**
+   * - M090
+     - kode
+     -
+     - 0-1
+     -
+     - Tekststreng
+   * - M091
+     - kodenavn
+     -
+     - 1
+     -
+     - Tekststreng
+   * - M057
+     - inaktiv
+     -
+     - 0-1
+     -
+     - Boolsk
 
 Metadata for *brukeradministrasjon*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

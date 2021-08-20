@@ -1,0 +1,16 @@
+Arkivenhet: kodeverdi
+Arv: Nei
+Avleveres:
+Betingelser: |-
+  Obligatoriske verdier:
+
+  - «true»
+  - «false»
+Datatype: Boolsk
+Definisjon: Angir om en kodeverdi er gyldig for nye forekomster.
+Gjeldende: true
+Gruppe: Status
+Kilde: Oppdateres manuelt ved foreldelse
+Kommentarer: inaktiv inngår i alle objekter som angir en kode og angir den unike koden. Verdien «false» angir at dette er en kode som kan benyttes på nye registreringer. Verdien «true» angir at dette er en kode som har gått ut av bruk.
+Navn: inaktiv
+Nr: M057
