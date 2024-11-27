@@ -1,0 +1,11 @@
+Arkivenhet: mappe, registrering, dokumentbeskrivelse
+Arv: Nei
+Betingelser:
+Datatype: Tekststreng
+Definisjon: Referanse fra ekstern kilde
+Gruppe: Identifikasjon
+Kilde: Registreres manuelt.
+Kommentarer:
+Navn: eksternReferanse
+Nr: M016
+Utdatert: nei

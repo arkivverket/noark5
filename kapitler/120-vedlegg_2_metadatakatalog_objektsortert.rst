@@ -623,6 +623,12 @@ Merk: Bare en av objekttypene *klassifikasjonssystem*, *mappe* eller *registreri
    - 0-M
    - A
    - klasse.systemID
+ * - M016
+   - eksternReferanse
+   - AM.REF
+   - 0-M
+   - Tekststreng
+   - Ekstern referanse på innkommende dokumenter.
  * - M711
    - virksomhetsspesifikkeMetadata
    - 
@@ -907,6 +913,12 @@ Merk: Bare en av objekttypene *klassifikasjonssystem*, *mappe* eller *registreri
    - 0-M
    - A
    - klasse.systemID
+ * - M016
+   - eksternReferanse
+   - AM.REF
+   - 0-M
+   - Tekststreng
+   - Ekstern referanse på innkommende dokumenter.
  * - M711
    - virksomhetsspesifikkeMetadata
    - 
@@ -1441,6 +1453,12 @@ Merk: En *dokumentbeskrivelse* kan være knyttet til mer enn én enkelt *registr
    - 0-1
    - 
    - Tekststreng
+ * - M016
+   - eksternReferanse
+   - AM.REF
+   - 0-M
+   - Tekststreng
+   - Ekstern referanse på innkommende dokumenter.
  * - M208
    - referanseArkivdel
    - JP.ARKDEL
