@@ -16,6 +16,8 @@ En løsning for fleksibel dokumentfangst er nødvendig for å håndtere dette. O
 
 I noen sammenhenger vil det også være aktuelt å fange andre typer dokumenter, så som blogger, komprimerte filer, elektroniske kalendere, data fra geografiske informasjonssystem, multimediedokumenter, dokumenter som inneholder lenker til andre dokumenter, øyeblikkelig meldingstjeneste (instant messaging), tekstmeldinger til mobiltelefon (sms), bilder til mobiltelefon (MMS) og wikis.
 
+Helautomatisk dokumentfangst innebærer at fangsten skjer uten at den personlige brukeren foretar seg noe for å få det til å skje, utløst av forhåndsdefinerte kriterier som at spesielle trinn i en forretningsprosess utføres, ved at informasjonsinnholdet gjenkjennes, eller lignende.
+
 .. list-table:: **Overordnete krav til dokumentfangst**
    :widths: 1 8 1 4
    :header-rows: 1
@@ -48,8 +50,7 @@ I noen sammenhenger vil det også være aktuelt å fange andre typer dokumenter,
    - V
    - 
  * - 3.1.5
-   - Det bør finnes funksjonalitet for helautomatisk
-     dokumentfangst[9]_.
+   - Det bør finnes funksjonalitet for helautomatisk dokumentfangst.
    - V
    - 
  * - 3.1.6
@@ -886,13 +887,6 @@ Hensikten med rapporten *Forfallsliste* er å kunne vise dokumenter med en frist
      *saksbehandler*
    - V
    - 
-
-.. [9]
-   Helautomatisk dokumentfangst innebærer at fangsten skjer uten at den
-   personlige brukeren foretar seg noe for å få det til å skje, utløst
-   av forhåndsdefinerte kriterier som at spesielle trinn i en
-   forretningsprosess utføres, ved at informasjonsinnholdet gjenkjennes,
-   eller lignende.
 
 .. [10]
    https://geointegrasjon.no/
