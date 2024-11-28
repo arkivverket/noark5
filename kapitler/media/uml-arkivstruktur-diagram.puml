@@ -34,7 +34,6 @@ constraint on links: enten/eller
 
 mappe "1" o--> "0..*" registrering
 mappe "0..1" o-> "0..*" mappe : undermappe
-constraint on links: enten/eller
 
 arkivdel "1" o--> "0..*" registrering
 registrering "1..*" o--> "0..*" dokumentbeskrivelse

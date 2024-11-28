@@ -371,7 +371,7 @@ Utgangspunktet for alle mappetyper i Noark 5 er metadataene i en *mappe*. Denne 
 
 **Undermappe**
 
-En mappe kan inneholde en eller flere undermapper (spesifisert som egenrelasjon i *mappe*). Arv fra en klasse vil alltid gå til mappen på det øverste nivået. Dersom mappenivået består av flere nivåer, skal registreringer bare kunne knyttes til det laveste nivået. En mappe kan altså ikke inneholde både andre mapper og registreringer.
+En mappe kan inneholde en eller flere undermapper (spesifisert som egenrelasjon i *mappe*). Arv fra en klasse vil alltid gå til mappen på det øverste nivået.  En mappe kan både inneholder andre mapper og individuelle registreringer.
 
 **Saksmappe**
 
