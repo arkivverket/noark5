@@ -1,0 +1,11 @@
+Arkivenhet: arkivdel, mappe, registrering, dokumentbeskrivelse
+Arv: Ja
+Betingelser:
+Datatype: Tekststreng
+Definisjon: Entydig navn på fagsystem som behandler objekter som svarer til objektene i Noark 5
+Gruppe: Identifikasjon
+Kilde: 
+Kommentarer: Benyttes der hvor objektene behandles i fagsystemet og overfører data til eller fra Noark 5-løsningen.
+Navn: eksterntSystemNavn
+Nr: M016
+Utdatert: nei
