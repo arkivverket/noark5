@@ -1,0 +1,12 @@
+Arkivenhet: kodeverdi
+Arv: Nei
+Avleveres:
+Betingelser:
+Datatype: Tekststreng
+Definisjon: Beskrivende tekststreng som identifiserer en kodeverdi til bruk.  Unik innenfor kodelisten den er del av.
+Gjeldende: true
+Gruppe: Typer
+Kilde:
+Kommentarer: Kodenavn den verdien som skal benyttes ved avlevering av Noark-systemer.
+Navn: kodenavn
+Nr: M091
