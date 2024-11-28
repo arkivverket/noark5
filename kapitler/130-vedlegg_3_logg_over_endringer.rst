@@ -50,7 +50,7 @@ Når verdiene for noen sentrale metadataelementer blir endret, skal dette logges
  * - mappe
    - M020
    - tittel
-   - Ved endring etter status Avsluttet
+   - Ved endring etter arkivstatus «Avsluttet», arkivdelstatus «Avsluttet periode» eller saksstatus «Avsluttet» for undertype saksmappe.
  * - mappe
    - M208
    - referanseArkivdel
@@ -106,7 +106,7 @@ Når verdiene for noen sentrale metadataelementer blir endret, skal dette logges
  * - registrering
    - M020
    - tittel
-   - Ved endring etter status Ekspedert/Avsluttet
+   - Ved endring etter arkivstatus/saksstatus «Avsluttet», arkivdelstatus «Avsluttet periode», journalstatus «Ekspedert»/«Journalført»/«Arkivert» for undertype journalpost eller moeteregistreringsstatus «Ferdig behandlet av utvalget» for undertype møteregistrering.
  * - registrering
    - M024
    - forfatter
@@ -114,7 +114,7 @@ Når verdiene for noen sentrale metadataelementer blir endret, skal dette logges
  * - journalpost
    - M053
    - journalstatus
-   - Ved endring etter status Ekspedert/Avsluttet
+   - Ved endring etter journalstatus «Ekspedert»/«Journalført»/«Arkivert», arkivstatus/saksstatus «Avsluttet» eller arkivdelstatus «Avsluttet periode».
  * - journalpost
    - M101
    - journaldato
@@ -122,7 +122,7 @@ Når verdiene for noen sentrale metadataelementer blir endret, skal dette logges
  * - journalpost
    - M103
    - dokumentetsDato
-   - Ved endring etter status Ekspedert/Avsluttet
+   - Ved endring etter journalstatus «Ekspedert»/«Journalført»/«Arkivert», arkivstatus/saksstatus «Avsluttet» eller arkivdelstatus «Avsluttet periode».
  * - journalpost
    - M104
    - mottattDato
@@ -170,7 +170,7 @@ Når verdiene for noen sentrale metadataelementer blir endret, skal dette logges
  * - dokumentbeskrivelse
    - M020
    - tittel
-   - Ved endring etter status E
+   - Ved endring etter journalstatus «Ekspedert»/«Journalført»/«Arkivert», arkivstatus/saksstatus «Avsluttet» eller arkivdelstatus «Avsluttet periode».
  * - kassasjon
    - M453
    - kassasjonshjemmel
