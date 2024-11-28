@@ -253,12 +253,10 @@ Kravene til masseimport nedenfor er generelle, og de er uavhengige av verktøy o
  * - 3.1.26
    - Noark 5-kjernen bør ha mulighet til å håndtere input kø ved
      masseimport.
-     
-     *Merknad: For håndtering av input køen kan det for eksempel være
-     ønskelig å se køene, pause en eller flere køer, starte en eller
-     alle køene på nytt, slette en kø.*
    - V
-   - 
+   - For håndtering av input køen kan det for eksempel være
+     ønskelig å se køene, pause en eller flere køer, starte en eller
+     alle køene på nytt, slette en kø.
  * - 3.1.27
    - Noark 5-kjernen bør kunne fange metadata knyttet til alle
      dokumentene som overføres, automatisk. Det bør være mulig å
